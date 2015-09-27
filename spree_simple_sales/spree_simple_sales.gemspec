@@ -3,13 +3,13 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_simple_sales'
   s.version     = '3.0.4'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'this gem addes for on sale tag'
+  s.description = 'add on sale tag and displays all prooducts on different page'
   s.required_ruby_version = '>= 2.0.0'
 
-  # s.author    = ['wolfieorama']
-  # s.email     = ['wolfieorama@gmail.com']
-  # s.homepage  = 'http://www.spreecommerce.com'
+  # s.author    = ["wolfieorama"]
+  # s.email     = ["wolfieorama@gmail.com"]
+  # s.homepage  = "https://github.com/wolfieorama/spree-sale/tree/master/spree_simple_sales"
 
   #s.files       = `git ls-files`.split("\n")
   #s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
